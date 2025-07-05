@@ -1,0 +1,5 @@
+djnago
+scikit-learn
+numpy
+pandas
+gunicorn
